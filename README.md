@@ -1,20 +1,20 @@
 # Deploying Web App API and MySQL server on Kubernetes
 
-###Code Repo URL:
+### Code Repo URL:
 https://github.com/shivank24/kubernetes_app
 
 
-###Docker Hub URL for image:
+### Docker Hub URL for image:
 https://hub.docker.com/r/skj03/python-mysql/tags
 
-###SERVICE API URL:
+### SERVICE API URL:
 http://{HOST}:5000/students
 
-###RECORDING LINK:
+### RECORDING LINK:
 https://nagarro-my.sharepoint.com/:v:/p/shivank_jain/EZsWQv22P5FIuWHEst2nOdUBtmYFAGPyiwWiKAUj6BXcVA?e=XTeTdm
 
 
-##Initial Database data load
+## Initial Database data load
 To save initial database records do below steps:
 
 Step 1: Run below command to login to mysql instance
